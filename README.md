@@ -1,10 +1,14 @@
 ## H! there 👋  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
+### My name is Martin, i am 17 years, live in Poing (Germany) I am currently attending the vocational high school (Fachoberschule) in Erding. My hobbies include programming and playing the piano. In terms of sports, I am actively involved in track and field (athletics) and biking.
+
+
+- 🔭 I’m currently working on msg. This is a project for encrypting text messages. It is not open source, but can still be used free of charge. The repository for this [can be found here](https://github.com/cracky22/msg_encrypt)
 
 ### 🍜 About
 
-- 👨‍💻 ME:  https://cracky.ddns.net/about%20me
-- 📫 EMAIL: martinblieninger2208@gmail.com
+- 👨‍💻 About M3:  https://cracky.ddns.net/about%20me
+- 📫 E-M4!L: martinblieninger2208@gmail.com
 
 
 <!--
