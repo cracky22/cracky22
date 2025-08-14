@@ -21,7 +21,7 @@ Check out the repository here: [github.com/cracky22/msg_encrypt](https://github.
 - 📧 **Email**: [martinblieninger2208@gmail.com](mailto:martinblieninger2208@gmail.com)
 
 
-![Martin's GitHub Contributions](https://ghchart.rshah.org/cracky22)
+<!--![Martin's GitHub Contributions](https://ghchart.rshah.org/cracky22)-->
 <!--
 🔭 Currently working on: msg encryption project
 🌱 Learning: New programming techniques
