@@ -1,23 +1,46 @@
-## H! there 👋  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# 👋 Hey there! 
 
-### My name is Martin, i am 17 years, live in Poing (Germany) I am currently attending the vocational high school (Fachoberschule) in Erding. My hobbies include programming and playing the piano. In terms of sports, I am actively involved in track and field (athletics) and biking.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px" alt="Wave"> 
+  <h2>I'm Martin, a 17-year-old tech enthusiast from Poing, Germany!</h2>
+</div>
 
+---
 
-- 🔭 I’m currently working on msg. This is a project for encrypting text messages. It is not open source, but can still be used free of charge. The repository for this [can be found here](https://github.com/cracky22/msg_encrypt)
+## 🌟 About Me
 
-### 🍜 About
+I'm currently a student at the **vocational high school (Fachoberschule)** in Erding, where I'm diving into my passion for **programming** and exploring new challenges. When I'm not coding, you can find me:
 
-- 👨‍💻 About M3:  https://cracky.ddns.net/about%20me
-- 📫 E-M4!L: martinblieninger2208@gmail.com
+- 🎹 Playing the piano with heart and soul
+- 🏃‍♂️ Competing in track and field (athletics)
+- 🚴‍♂️ Exploring the outdoors on my bike
 
+---
+
+## 💻 What I'm Working On
+
+🔒 **msg** - A personal project focused on **encrypting text messages** to keep communication secure. It's not open source, but it's **free to use**!  
+Check out the repository here: [github.com/cracky22/msg_encrypt](https://github.com/cracky22/msg_encrypt)
+
+---
+
+## 📌 Get to Know Me
+
+- 🌐 **About Me**: [cracky.ddns.net/about%20me](https://cracky.ddns.net/about%20me)  
+- 📧 **Email**: [martinblieninger2208@gmail.com](mailto:martinblieninger2208@gmail.com)
+
+---
+
+<div align="center">
+  <p>🚀 Always learning, creating, and pushing my limits!</p>
+  <p>Feel free to reach out if you want to chat about code, music, or sports! 😄</p>
+</div>
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Currently working on: msg encryption project
+🌱 Learning: New programming techniques
+👯 Open to collaborate on: Exciting coding projects
+🤔 Looking for help with: Advanced encryption methods
+💬 Ask me about: Programming, piano, or athletics
+⚡ Fun fact: I can code faster than I can run (sometimes)!
 -->
