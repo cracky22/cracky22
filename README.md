@@ -1,10 +1,13 @@
-## Hi there 👋
+## H! there 👋  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+
+
+### 🍜 About
+
+- 👨‍💻 ME:  https://cracky.ddns.net/about%20me
+- 📫 EMAIL: martinblieninger2208@gmail.com
+
 
 <!--
-**cracky22/cracky22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
