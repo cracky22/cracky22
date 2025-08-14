@@ -1,6 +1,7 @@
 ## 👋 Hey there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px" alt="Wave"> 
 
 <h2 align="center">I'm Martin, a 17-year-old tech enthusiast from Poing, Germany!</h2>
+
 ### 🌟 About Me
 
 I'm currently a student at the **vocational high school (Fachoberschule)** in Erding, where I'm diving into my passion for **programming** and exploring new challenges. When I'm not coding, you can find me:
@@ -18,11 +19,6 @@ Check out the repository here: [github.com/cracky22/msg_encrypt](https://github.
 
 - 🌐 **About Me**: [cracky.ddns.net/about%20me](https://cracky.ddns.net/about%20me)  
 - 📧 **Email**: [martinblieninger2208@gmail.com](mailto:martinblieninger2208@gmail.com)
-
-<div align="center">
-  <p>🚀 Always learning, creating, and pushing my limits!</p>
-  <p>Feel free to reach out if you want to chat about code, music, or sports! 😄</p>
-</div>
 
 <!--
 🔭 Currently working on: msg encryption project
