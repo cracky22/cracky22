@@ -14,6 +14,7 @@ I'm currently a student at the **vocational high school (Fachoberschule)** in Er
 
 🔒 **msg** - A personal project focused on **encrypting text messages** to keep communication secure. It's not open source, but it's **free to use**!  
 Check out the repository here: [github.com/cracky22/msg_encrypt](https://github.com/cracky22/msg_encrypt)
+Check out the webmsg version here (mobile only): [github.com/cracky22/webmsg](https://github.com/cracky22/webmsg)
 
 ### 📌 Get to Know Me
 
