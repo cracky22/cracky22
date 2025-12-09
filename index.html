@@ -1,0 +1,176 @@
+
+<!DOCTYPE html>
+<html lang="de-De">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@300&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="https://cracky.ddns.net/home/martin_blieninger.jpg" type="image/x-icon">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <title>
+            Martin Blieninger
+        </title>
+    </head>
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            height: 100vh;
+            width: 100vw;
+            background: linear-gradient(to right bottom, rgb(0, 0, 0), rgb(68, 143, 204));
+        }
+
+        .main {
+            top: 50%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, -50%);
+        }
+
+        .container {
+            height: 500px;
+            width: 350px;
+            border-radius: 25px;
+            box-shadow: 0 10px 20px black;
+            background-size: cover;
+            font-family: 'Abel', sans-serif;
+            background-image: url("https://cracky.ddns.net/home/martin_blieninger.jpg");
+        }
+
+        
+
+        @keyframes gradient {
+            0% {
+                background-color:rgb(38, 80, 112);
+            }
+            100% {
+                background: linear-gradient(to top, rgba(28, 171, 238, 0.589), rgba(253, 252, 252, 0.171));
+            }
+        }
+        
+        
+        .gradient {
+            animation: gradient 1.8s ease;
+            border-radius: 25px;
+            height: 100%;
+            width: 100%;
+            top: 0;
+            background: linear-gradient(to top, rgba(28, 171, 238, 0.589), rgba(253, 252, 252, 0.171));
+            color: white;
+        }
+
+        .content {
+            bottom: 0;
+            position: absolute;
+            margin-bottom: 20px;
+            padding: 20px;
+        }
+
+        h2.name {
+            font-size: xx-large;
+            letter-spacing: -0.8px;
+        }
+
+        p.details {
+            letter-spacing: -0.5px;
+            font-weight: 600;
+        }
+
+        p.about {
+            font-style: italic;
+            color: rgb(41, 61, 77);
+            font-weight: 600;
+        }
+
+        .icons {
+            display: flex;
+            flex-direction: column;
+            top: -20px;
+            position: absolute;
+            left: 86%;
+        }
+
+        .icons i {
+	    cursor: pointer;
+            font-size: 25px;
+            margin-bottom: 20px;
+            color: rgb(202, 215, 226);
+            transition: 0.3s;
+        }
+
+        .icons i:hover {
+            color: #20435f!important;
+        }
+
+        @media screen and(min-width:200px) {
+            .container {
+                height: 350px;
+                width: 200px;
+            }
+
+            h2 {
+                font-size: x-large;
+            }
+
+            .icons i {
+                font-size: large;
+                margin-bottom: 10px;
+            }
+        }
+
+        i.fa-mail {
+            color: #bf374a!important;
+        }
+
+        i.fa-whatsapp {
+            color: #228245!important;
+        }
+
+        i.fa-linkedin {
+            color: #1d466e!important;
+        }
+	i.fa-github {
+	    color: black;
+	}
+    </style>
+
+    <body>
+        <div class="main">
+            <div class="container">
+                <div class="gradient">
+                    <div class="content">
+                        <h2 class="name">
+                            MARTIN
+                            <br>
+                            BLIENINGER
+                        </h2>
+                        <p class="details">
+                            18 years, <a href="https://g.co/kgs/JCxN31m" target="_blank">Poing</a>, Germany
+                        </p>
+                        <br>
+                        <p class="about">
+                            I am currently attending the vocational high school (Fachoberschule) in Erding. My hobbies include programming and playing the piano. In terms 
+                            of sports, I am actively involved in track and field (athletics) and biking.
+			</p>
+			<a href="https://github.com/cracky22/" target="_blank"><b>go to my GitHub-Profile</b></a> <div class="icons">
+                            <i onclick="window.open('mailto:martinblieninger2208@gmail.com?subject=', '_blank');" class="material-icons fa-mail" aria-hidden="true">mail</i>
+                            <i onclick="window.open('https:\/\/api.whatsapp.com/send/?phone=4915788293701&text=Hallo%20Martin&type=phone_number&app_absent=0', '_blank');" class="fa fa-whatsapp" aria-hidden="true"></i>
+			    <i onclick="window.open('https:\/\/github.com\/cracky22', '_blank');" class="fa fa-github" aria-hidden="true"></i>
+                            <i onclick="window.open('https:\/\/www.linkedin.com/in/martin-blieninger-8a168528a/', '_blank');" class="fa fa-linkedin" aria-hidden="true"></i>
+                            <!--<i class="fa fa-instagram" aria-hidden="true"></i>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>
