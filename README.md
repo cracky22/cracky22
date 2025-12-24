@@ -6,7 +6,7 @@
 
 I'm currently a student at the **vocational high school (Fachoberschule)** in Erding, where I'm diving into my passion for **programming** and exploring new challenges. When I'm not coding, you can find me:
 
-- 🎹 Playing the piano with heart and soul
+- 🪗 Playing the accordion with heart and soul
 - 🏃‍♂️ Competing in track and field (athletics)
 - 🚴‍♂️ Exploring the outdoors on my bike
 
