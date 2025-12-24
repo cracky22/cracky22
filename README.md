@@ -16,6 +16,10 @@ I'm currently a student at the **vocational high school (Fachoberschule)** in Er
 Check out the repository here: [github.com/cracky22/msg_encrypt](https://github.com/cracky22/msg_encrypt)
 Check out the webmsg version here (mobile only): [github.com/cracky22/webmsg](https://github.com/cracky22/webmsg)
 
+🌐 **wdx** - A source-management tool with web-extension integration for Chrome
+Check out the repository here: [github.com/cracky22/wdx](https://github.com/cracky22/wdx)
+
+
 ### 📌 Get to Know Me
 
 - 🌐 **About Me**: [cracky.ddns.net/about%20me](https://cracky.ddns.net/about%20me)  
