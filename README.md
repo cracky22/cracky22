@@ -24,6 +24,8 @@ Check out the repository here: [github.com/cracky22/wdx](https://github.com/crac
 
 - 🌐 **About Me**: [cracky.ddns.net/about%20me](https://cracky.ddns.net/about%20me)  
 - 📧 **Email**: [martinblieninger2208@gmail.com](mailto:martinblieninger2208@gmail.com)
+- 🔐 **PGP Fingerprint**: `9366 CC4A 5037 62A3 BC2F B86E C4FF 1EF4 9925 8BB4`
+- 🔑 **Public Key**: https://keys.openpgp.org/vks/v1/by-fingerprint/9366CC4A503762A3BC2FB86EC4FF1EF499258BB4
 
 
 <!--![Martin's GitHub Contributions](https://ghchart.rshah.org/cracky22)-->
