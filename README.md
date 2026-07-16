@@ -13,8 +13,9 @@ I'm currently a student at the **vocational high school (Fachoberschule)** in Er
 ### 💻 What I'm Working On
 
 🔒 **msg** - A personal project focused on **encrypting text messages** to keep communication secure. It's not open source, but it's **free to use**!  
-Check out the repository here: [github.com/cracky22/msg_encrypt](https://github.com/cracky22/msg_encrypt)
-Check out the webmsg version here (mobile only): [github.com/cracky22/webmsg](https://github.com/cracky22/webmsg)
+Info: I'm currently updating the backend; it'll be back online soon (2026-07-27) :)
+~~Check out the repository here: [github.com/cracky22/msg_encrypt](https://github.com/cracky22/msg_encrypt)
+Check out the webmsg version here (mobile only): [github.com/cracky22/webmsg](https://github.com/cracky22/webmsg)~~ 
 
 🌐 **wdx** - A source-management tool with web-extension integration for Chrome
 Check out the repository here: [github.com/cracky22/wdx](https://github.com/cracky22/wdx)
